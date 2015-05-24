@@ -1,2 +1,2 @@
 # hello_world
-my github hello world
+my github hello world repository
